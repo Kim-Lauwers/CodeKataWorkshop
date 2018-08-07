@@ -1,0 +1,28 @@
+# Abstract {#Abstract}
+
+### Description
+
+Refactoring is like same when parenting children. You can tell to clean up after playing, changes are small they will do it without telling them unless it becomes a habit.
+And how does it become a habit? By repeating it and keep letting them do it.
+
+This workshop not only gives people a chance to experience refactoring and cleaning up their code, but also to try make it a habit.
+
+Your colleagues, your team, your boss and your future self will be very happy with your new nice, clean code.
+
+### Process and timetable
+
+**Note that these timings are only a guideline. You do not need to follow them exactly.**
+
+
+
++ Total length of workshop: 3/4/8 hours
++ Introduction of facilitators: 5 minutes
++ Introduction of the group: 10 minutes (up to 20 people)
++ Theory (30 mins for 3 hour workshop. 1 hour for 4/8 hour workshop)
++ - What
++ - Why
++ - Resistance
++ - When
++ - How
++ - Smells
++ Exercises: (total workshop - introduction, theory and retrospective time.)
