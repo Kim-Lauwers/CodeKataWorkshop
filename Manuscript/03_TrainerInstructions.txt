@@ -17,8 +17,10 @@ Create a circle of 20 chairs, plus chairs for both trainers (we strongly advise 
 Next to that circle, you have a large table with 10 computers (next to your own). You can work with the developers' own normal computer setup, but we have noticed that having everyone in the same room and even at the same table, works better for the sharing of knowledge.
 
 
-+ Put a timer clock in front of you, you can also use a hourglass.
 + Have a printed copy of this document for each trainer.
++ Put a timer clock in front of you, you can also use a hourglass.
+![Hourglass](images/hourglass.jpg "Hourglass")
+
 
 We have suggested default times for each of the different parts (see "Process and Timetable"). Use these timings as a guideline. If you notice that you are not following the timings, make sure you make a note of how much time you use for each section; It will give you some insight on how to adjust the workshop (we use it like a non graphical burndown).
 
