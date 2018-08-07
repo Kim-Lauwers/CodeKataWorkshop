@@ -4,4 +4,4 @@ I would like to **THANK**:
 
 + You for buying and reading this book so far.
 + Everyone that has played this workshop since I created this book.
-+ Yves Hanoulle for inspiring me to create this workshop after I collaborated with him on his [PairProgramming workshop](https://leanpub.com/pairprogrammingworkshop)
++ [Yves Hanoulle](http://www.hanoulle.be) for inspiring me to create this workshop after I collaborated with him on his [PairProgramming workshop](https://leanpub.com/pairprogrammingworkshop)
