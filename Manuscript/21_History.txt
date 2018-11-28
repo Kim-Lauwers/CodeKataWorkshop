@@ -5,3 +5,4 @@ This workshop was invented in 2018.
 **Versions**
 
 + Version 1.0 Initial set-up of the workshop.
++ Version 1.1 Changed the workshop from refactoring to a code kata.
