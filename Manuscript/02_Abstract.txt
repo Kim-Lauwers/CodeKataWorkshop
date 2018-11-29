@@ -2,10 +2,14 @@
 
 ### Description
 
-Refactoring is like same when parenting children. You can tell to clean up after playing, changes are small they will do it without telling them unless it becomes a habit.
-And how does it become a habit? By repeating it and keep letting them do it.
 
-This workshop not only gives people a chance to experience refactoring and cleaning up their code, but also to try make it a habit.
+How do you get to be a great martial artist? It helps to know the theory, and to understand the mechanics of the human body. It helps to have talent. But ultimately, greatness comes from practicing; applying the theory over and over again, using feedback to get better every time.
+But in the software industry we take developers trained in the theory and throw them straight in to the deep-end, working on a project.
+It’s like taking a group of fit kids and telling them that they a sprint (2 weeks) to beat the World Champion Judo.
+In software we do our practicing on the job, and that’s why we make mistakes on the job.
+We need to find ways of splitting the practice from the profession. We need practice sessions.
+
+This workshop will give people to practice their skills.
 
 Your colleagues, your team, your boss and your future self will be very happy with your new nice, clean code.
 
