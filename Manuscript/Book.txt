@@ -1,5 +1,6 @@
 02_Abstract.txt
-03_TrainerInstructions.txt
+03_Timings.txt
+04_TrainerInstructions.txt
 
 12_Observation.txt
 13_Feedback.txt
